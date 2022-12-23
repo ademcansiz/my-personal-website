@@ -1,0 +1,15 @@
+.home{
+    background: linear-gradient( 90deg, rgba(55, 8, 148, 0.497) 0%, rgba(255, 255, 255, 0) 100% ),url(img/background-image.png);
+    background-size: cover;
+    background-position-x: center;
+    background-position-y: center;
+}
+.hepsi{
+    background: linear-gradient( 90deg, rgba(55, 8, 148, 0.497) 0%, rgba(255, 255, 255, 0) 100% ),url(img/Black.png);
+    background-size: cover;
+    background-position-x: center;
+    background-position-y: center;
+}
+body{
+    overflow-x: hidden !important;
+}
